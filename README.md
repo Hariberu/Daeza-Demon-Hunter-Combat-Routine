@@ -3,12 +3,12 @@
 **Titles must have either of these:**
 
 
-- [ClassSpec][Issue]
-- [ClassSpec][Suggestion]
+- [ProductName][Issue]
+- [ProductName][Suggestion]
 
 **For example:**
 ```
-[Havoc][Suggestion] More OP!!!
+[DaezaDemonHunter][Suggestion] More OP!!!
 
 then describe the issue/suggestion in the comment.
 ```
